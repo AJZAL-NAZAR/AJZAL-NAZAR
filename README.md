@@ -6,7 +6,8 @@
 
 I craft intelligent systems that transform pixels, text, and patterns into powerful applications. From computer vision models that understand images to generative tools that think creatively, I love building things at the edge of what AI can imagine.
 
-🚀 What I Do
+##🚀 **What I Do**
+
 🤖 Machine Learning & Deep Learning – Transformers, CNNs, GANs, Scikit-learn, PyTorch
 
 🧠 Generative AI – Vision-to-text, AI question generators, emoji synthesis, recipe generation
@@ -15,7 +16,8 @@ I craft intelligent systems that transform pixels, text, and patterns into power
 
 📦 Project Builder – Pixels to Plate, Emojify, blockchain + AI, and more coming soon...
 
-🌱 Currently Exploring
+##🌱 **Currently Exploring**
+
 🧬 AI for drug discovery
 
 🧠 Multimodal LLMs & model interpretability
@@ -24,7 +26,8 @@ I craft intelligent systems that transform pixels, text, and patterns into power
 
 📚 Visual content → intelligent questions (EdTech AI)
 
-📫 Let’s Connect
+##📫**Let’s Connect**
+
 📍 Based in India | 💻 Always Building | 🔍 Open to Collaboration & Opportunities
 
 
