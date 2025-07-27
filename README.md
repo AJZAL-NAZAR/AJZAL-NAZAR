@@ -1,7 +1,33 @@
 ## Hi there 👋
 
 # 💫 About Me:
-AI/ML Researcher | Generative AI • NLP • Deep Learning  <br>Projects: Emojify 😊, Pixels to Plate 🍽️  <br>Exploring the future of intelligence through code 🤖<br>
+👋 Hey, I’m Ajzal Nazar
+🎯 AI/ML Developer | Creative Coder | Generative Intelligence Enthusiast
+
+I craft intelligent systems that transform pixels, text, and patterns into powerful applications. From computer vision models that understand images to generative tools that think creatively, I love building things at the edge of what AI can imagine.
+
+🚀 What I Do
+🤖 Machine Learning & Deep Learning – Transformers, CNNs, GANs, Scikit-learn, PyTorch
+
+🧠 Generative AI – Vision-to-text, AI question generators, emoji synthesis, recipe generation
+
+🛠️ Python Developer – Clean, scalable, and production-ready ML pipelines
+
+📦 Project Builder – Pixels to Plate, Emojify, blockchain + AI, and more coming soon...
+
+🌱 Currently Exploring
+🧬 AI for drug discovery
+
+🧠 Multimodal LLMs & model interpretability
+
+🔗 AI + Blockchain (wallet risk scoring with Compound protocol)
+
+📚 Visual content → intelligent questions (EdTech AI)
+
+📫 Let’s Connect
+📍 Based in India | 💻 Always Building | 🔍 Open to Collaboration & Opportunities
+
+
 
 
 ## 🌐 Socials:
